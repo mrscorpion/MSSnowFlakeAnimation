@@ -13,4 +13,4 @@ Snow Flake Animation -- 雪花降落动画。
 
 ##Licenses
 
-All source code is licensed under the [MIT License](https://github.com/mrscorpion/JXExplodeView/blob/master/LICENSE).
+All source code is licensed under the [MIT License].

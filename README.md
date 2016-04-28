@@ -7,7 +7,7 @@ Snow Flake Animation -- 雪花降落动画。
 
 ## Contact
 
-**author:** mr scorpion
+**Author:** Mr Scorpion
 
 **Email:** 1515679729@qq.com
 
